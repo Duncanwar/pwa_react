@@ -16,6 +16,7 @@ const App = () => {
 
   return (
     <div className="main-container">
+    <h2> Enter a name of the city to know the weather </h2>
       <input
         type="text"
         className="search"
